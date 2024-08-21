@@ -1,0 +1,46 @@
+# Ignore by file path
+- paths:
+    - /home/itsuki/vault-radar/Vaultradar_test5/*
+
+
+# Ignore by secret value
+# Equivalent to 'secret_value == my_password OR secret_value == my_token'
+- secret_values:
+  - satosatosato
+  - satosatosato
+
+
+# Ignore by secret type
+# Equivalent to 'secret_type == password_assignment OR secret_type == secret_assignment'
+- secret_types:
+  - password
+  - string password
+  - String password
+
+
+
+
+
+# Ignore by file path
+- paths:
+    - c++v2.cpp
+    - gov2.go
+
+
+# Ignore by secret value
+# Equivalent to 'secret_value == my_password OR secret_value == my_token'
+- secret_values:
+  - satosatosato
+  - satosatosato
+  - #test
+  - Vaultradar_test5
+  - "satosatosato"
+
+# Ignore by secret type
+# Equivalent to 'secret_type == password_assignment OR secret_type == secret_assignment'
+- secret_types:
+  - password
+  - string password
+  - String password
+
+
