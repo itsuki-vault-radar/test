@@ -34,3 +34,6 @@ password = "satosatosato"
 
 password = "satosatosato" 
 #test
+
+Secrret ＝ ABCDEFG
+Secrret ＝ ”ABCDEFG”
