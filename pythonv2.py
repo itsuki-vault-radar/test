@@ -67,3 +67,14 @@ Secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
 Secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
 Secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
 Secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+
+adobe_client_secret = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$ : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = DCXG7>foYno"$Me|MR'_um:*q97vHK7) : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6` : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_ : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+
+
+
+
+
