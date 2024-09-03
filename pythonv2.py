@@ -88,3 +88,13 @@ const adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT" : これはダミ
 const adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 const adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
+github_oauth_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
+github_oauth_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
+github_oauth_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
+github_oauth_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
+github_oauth_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+
+↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+
+
+
