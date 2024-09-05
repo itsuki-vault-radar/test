@@ -119,4 +119,4 @@ aws_secret_access_key=bar
 ↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
 
-
+##test
