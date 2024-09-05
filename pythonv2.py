@@ -113,6 +113,8 @@ var facebook_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
 var facebook_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
 
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+aws_access_key_id=foo
+aws_secret_access_key=bar
 
 ↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
