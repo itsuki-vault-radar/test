@@ -116,6 +116,8 @@ AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY : これはダミ
 aws_access_key_id=foo
 aws_secret_access_key=bar
 
+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
+
 ↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
 
