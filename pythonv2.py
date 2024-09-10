@@ -119,7 +119,7 @@ aws_secret_access_key=bar
 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
 
 AKIAIOSFODNN7EXAMPLE
-
+wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 ↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
 
