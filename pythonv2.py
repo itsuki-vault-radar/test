@@ -129,5 +129,6 @@ Password ＝ 12345
 
 ↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
+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
 
 ##test
