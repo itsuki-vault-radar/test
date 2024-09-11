@@ -118,7 +118,7 @@ aws_secret_access_key=bar
 
 password = "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"
 password = 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
-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
+
 
 AKIAIOSFODNN7EXAMPLE
 wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
