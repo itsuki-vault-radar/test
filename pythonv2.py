@@ -142,3 +142,5 @@ database_password = os.environ.get('DB_PASSWORD')
 # シークレット情報を使用
 print(f"APIキー: {api_key}")
 print(f"hoge123456abc: {database_password}")
+
+print(f"asdffghjknhbrt: {api_key}")
