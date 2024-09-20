@@ -133,3 +133,12 @@ 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
 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
 
 ##test
+
+import os
+
+api_key = os.environ.get('API_KEY')
+database_password = os.environ.get('DB_PASSWORD')
+
+# シークレット情報を使用
+print(f"APIキー: {api_key}")
+print(f"hoge123456abc: {database_password}")
