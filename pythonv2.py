@@ -75,48 +75,48 @@ adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
 adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
 
-adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
-adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
-adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" 
-adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+adobe_client_secret = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+adobe_client_secret = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+adobe_client_secret = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
 
-const adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-const adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)
-const adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT" 
-const adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" 
-const adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+const adobe_client_secret = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+const adobe_client_secret = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+const adobe_client_secret = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+const adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+const adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
-github_oauth_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-github_oauth_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
-github_oauth_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
-github_oauth_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
-github_oauth_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+github_oauth_access_token = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+github_oauth_access_token = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+github_oauth_access_token = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+github_oauth_access_token = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+github_oauth_access_token = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
-var github_oauth_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-var github_oauth_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
-var github_oauth_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
-var github_oauth_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
-var github_oauth_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+var github_oauth_access_token = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+var github_oauth_access_token = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+var github_oauth_access_token = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+var github_oauth_access_token = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+var github_oauth_access_token = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
-facebook_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-facebook_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
-facebook_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
-facebook_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
-facebook_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+facebook_access_token = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+facebook_access_token = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+facebook_access_token = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+facebook_access_token = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+facebook_access_token = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
-var facebook_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
-var facebook_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
-var facebook_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
-var facebook_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
-var facebook_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
+var facebook_access_token = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+var facebook_access_token = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+var facebook_access_token = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+var facebook_access_token = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+var facebook_access_token = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
 AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 aws_access_key_id=foo
 aws_secret_access_key=bar
 
-password = "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"
+password = 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
 password = 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
 
 
