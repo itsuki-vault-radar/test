@@ -68,25 +68,25 @@ Secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
 Secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
 Secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
 
-adobe_client_secret = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$ : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = DCXG7>foYno"$Me|MR'_um:*q97vHK7) : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6` : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_ : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$
+adobe_client_secret = DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+adobe_client_secret = ~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT
+adobe_client_secret = adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`
+adobe_client_secret = oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_
 
 
-adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
+adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
+adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
+adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" 
+adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
 
 
-const adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-const adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-const adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-const adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
-const adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_" : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+const adobe_client_secret = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
+const adobe_client_secret = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)
+const adobe_client_secret = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT" 
+const adobe_client_secret = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`" 
+const adobe_client_secret = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
 
 github_oauth_access_token = "GO<CY5c{Rs-W|(cw%.Kvx@KT)S)yH^w$"
 github_oauth_access_token = "DCXG7>foYno"$Me|MR'_um:*q97vHK7)"
@@ -112,7 +112,7 @@ var facebook_access_token = "~Q=SQSj{1FV9%G{n,+k+1g|7a5@N&tZT"
 var facebook_access_token = "adi/}_^-GfWE$A=*rq\1phk/{<sqUS6`"
 var facebook_access_token = "oy>}U&~Zx$Ipgp+hC5(2y!52g]B0@>!_"
 
-AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY : これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
+AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 aws_access_key_id=foo
 aws_secret_access_key=bar
 
@@ -127,7 +127,6 @@ adobe_client_secret
 
 Password ＝ 12345
 
-↑これはダミーのシークレット情報です。実際のシークレットではございません。This is dummy secret information. It's not an actual secret.
 
 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
 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
